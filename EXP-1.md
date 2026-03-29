@@ -44,9 +44,13 @@ x(n)=a^n sin⁡(ωn)
 6.	Stop the program
 
 # MATLAB CODE:
+<img width="802" height="1599" alt="image" src="https://github.com/user-attachments/assets/7d9bf2f4-61cf-4264-9085-640c10b7c43c" />
+<img width="1080" height="1266" alt="image" src="https://github.com/user-attachments/assets/1f757772-5712-4339-99c7-16f79df4c09c" />
 
 
 # OUTPUT GRAPH:
+<img width="821" height="1452" alt="image" src="https://github.com/user-attachments/assets/3faaa3d7-fd19-4032-b9e4-cbb8fcc00523" />
+<img width="919" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a42ca71-5ebb-4bf1-8198-735b6c0dc8af" />
 
 # Result :
 Thus, standard discrete-time signals were successfully generated and plotted using MATLAB.
